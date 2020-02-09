@@ -1,0 +1,4 @@
+{
+    "tradeURL": "https://cloud.iexapis.com/stable/stock/aapl/batch?types=chart&range=1y&last=10&token=pk_e9cd6de980a140a09bb91802129bc621",
+    "windowSize": 20
+}
